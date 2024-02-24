@@ -1,6 +1,8 @@
 Things I have learned while playing with closed and open source LLMs - prompt, finetune, RAG, local interpreter, function calling, llama.cpp cpu inference are as follows:
 
 [Google Colab Link](https://colab.research.google.com/drive/1kGj7FMcI-6t8JWZ-XIMYa76qd7LtrK49)
+
+[Video Demo Link](https://drive.google.com/file/d/1Lrp8CQWeKZ3W5Wzap5cWrUr84MaQg0uo/view?usp=drive_link)
 # Language Models: Insights and Applications
 
 This README summarizes key insights and learnings from a detailed video presentation by Jeremy Howard, co-founder of fast.ai. The video provides a deep dive into the world of language models (LMs), covering foundational concepts, practical applications, and emerging trends.
