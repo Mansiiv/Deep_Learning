@@ -5,7 +5,9 @@ Each notebook covers a different aspect of agent development using different too
 
 
 [Demo video (.mov) format](https://drive.google.com/file/d/1nlZTfEYqxUguxX7Y7Jr8ZMksli4zEWUU/view?usp=sharing)
+
 [Demo video (.mp4) format](https://drive.google.com/file/d/1Z-W0eAM94DvHzQcGK3EkQwjFceE_z12J/view?usp=sharing)
+
 [Google Drive Link -- Video+colab](https://drive.google.com/drive/folders/1eRbVwjWASNF8-ZI9SGPrmxCwGEIHmXSL?usp=sharing)
 
 ## a) Writing an Agent from Scratch
