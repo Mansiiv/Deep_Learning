@@ -14,14 +14,9 @@ This repository contains detailed Colab notebooks demonstrating various tasks in
    
    <img src="https://github.com/Mansiiv/Deep_Learning/assets/47898293/eb45cd2f-5508-4326-a23e-8260f83147f7" width="800" height="500">
 
-   
-
-  
-
-
-3. Segmentation Task
-4. Tabular Task
-5. Recommendation Task
+2. Segmentation Task
+3. Tabular Task
+4. Recommendation Task
 
 ### Task B - Huggingface Transformers API Tasks
 
@@ -48,7 +43,7 @@ This repository contains detailed Colab notebooks demonstrating various tasks in
 
 ### Task 4 - Keras-CV Tasks
 
-[Link to Google Colab Notebook](https://colab.research.google.com/drive/1MoDo1Bs-UgijsAzhwTOi4tDC7WvqI4z0?usp=sharing)
+[Link to Google Colab Notebook](https://colab.research.google.com/drive/1WoVeoPYjM8QYcxVrrIb6zkrTF5ED8IuJ?usp=sharing)
 
 1. Object Detection using YOLO Model
 2. Inference with a Pretrained Classifier
