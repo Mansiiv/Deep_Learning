@@ -39,7 +39,7 @@ This repository contains detailed Colab notebooks demonstrating various tasks in
 
 ### Task C - Keras-NLP Tasks
 
-[Link to Google Colab Notebook](https://colab.research.google.com/drive/1VNJW6wsl92jlXcpEuG0T55TKqKsQVyW4?usp=sharing)
+[Link to Google Colab Notebook](https://colab.research.google.com/drive/107EQPcUE5z3ke_kDvC7SW7lqBLyb05Au)
 
 1. Inference with a Pretrained Classifier
 2. Fine-tuning a Pretrained Backbone
