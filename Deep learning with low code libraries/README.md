@@ -9,9 +9,19 @@ This repository contains detailed Colab notebooks demonstrating various tasks in
 [Link to Google Colab Notebook](https://colab.research.google.com/drive/1dk2JpK9Av5d_-fd5kTXiegXaOuI2-y9R?usp=sharing)
 
 1. Object Detection Task
-2. Segmentation Task
-3. Tabular Task
-4. Recommendation Task
+
+   <img src="https://github.com/Mansiiv/Deep_Learning/assets/47898293/9cc6eac1-effb-4679-8b3b-2d812d910e8e" width="800" height="500">
+   
+   <img src="https://github.com/Mansiiv/Deep_Learning/assets/47898293/eb45cd2f-5508-4326-a23e-8260f83147f7" width="800" height="500">
+
+   
+
+  
+
+
+3. Segmentation Task
+4. Tabular Task
+5. Recommendation Task
 
 ### Task B - Huggingface Transformers API Tasks
 
