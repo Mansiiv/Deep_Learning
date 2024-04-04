@@ -45,13 +45,13 @@ This assignment involves implementing various versions of a 3-layer neural netwo
 4D Plotting with Matplotlib
 Generate a 4D plot to visualize the relationship between the input feature, actual output, predicted output, and error magnitude. Utilize Matplotlib's capabilities to create the plot.
 
+Tensorflow only from scratch not using high level api  of the same
 
-.
+Tensorflow only with builtin layers of the same
 
-.
+Use functional api high level api  of tensorflow for the same
 
-.
-
+Tensorflow only but using high level api
 
 ## h) JAX Implementation
 
