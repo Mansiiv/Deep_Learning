@@ -84,7 +84,9 @@ xi) ustom Training Loop
   
 ## Video Recording
 
-[Demo Video By Mansi Vekariya ](https://drive.google.com/file/d/1zXpB_wj9t65Ud5B5vHjXDH369eVIYEfF/view?usp=sharing)
+[Demo Video By Mansi Vekariya Part-1](https://drive.google.com/file/d/1zXpB_wj9t65Ud5B5vHjXDH369eVIYEfF/view?usp=sharing)
+
+[Demo Video By Mansi Vekariya Part-2](https://drive.google.com/file/d/1DKG1-peHTiXAlB-DQN8Ko_CZ8_HDpawt/view?usp=sharing)
 
 
 ## Running the Notebooks
