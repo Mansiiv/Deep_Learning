@@ -42,7 +42,7 @@ Action Recognition: Using a pre-trained model from TensorFlow Hub to recognize a
 2.4 Text:
 
 NLP with TensorFlow Hub: Text classification using BERT from TensorFlow Hub. NLP Transfer Learning Colab
-
+[Colab Notebook - Text classification(Part2)](https://colab.research.google.com/drive/1agcjV3wr6vUoFe_jG9c754xURCEGnYKe?usp=sharing)
 
 
 ## Part 3: Zero-Shot Learning
